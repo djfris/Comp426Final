@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Comp426Final/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Comp426Final/static/js/main.8e13cf1e.chunk.js",
+    "main.js.map": "/Comp426Final/static/js/main.8e13cf1e.chunk.js.map",
+    "runtime-main.js": "/Comp426Final/static/js/runtime-main.590b82c4.js",
+    "runtime-main.js.map": "/Comp426Final/static/js/runtime-main.590b82c4.js.map",
+    "static/css/2.04ce4581.chunk.css": "/Comp426Final/static/css/2.04ce4581.chunk.css",
+    "static/js/2.117baa5b.chunk.js": "/Comp426Final/static/js/2.117baa5b.chunk.js",
+    "static/js/2.117baa5b.chunk.js.map": "/Comp426Final/static/js/2.117baa5b.chunk.js.map",
+    "static/js/3.cbf1e88f.chunk.js": "/Comp426Final/static/js/3.cbf1e88f.chunk.js",
+    "static/js/3.cbf1e88f.chunk.js.map": "/Comp426Final/static/js/3.cbf1e88f.chunk.js.map",
+    "index.html": "/Comp426Final/index.html",
+    "static/css/2.04ce4581.chunk.css.map": "/Comp426Final/static/css/2.04ce4581.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/Comp426Final/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.117baa5b.chunk.js.LICENSE.txt": "/Comp426Final/static/js/2.117baa5b.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/Comp426Final/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.590b82c4.js",
+    "static/css/2.04ce4581.chunk.css",
+    "static/js/2.117baa5b.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.8e13cf1e.chunk.js"
+  ]
+}
